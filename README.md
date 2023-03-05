@@ -5,7 +5,7 @@
         INTELIGENCIA ARTIFICIAL PARA LA CIENCIAS E INGENIERÍA
 
 
-
+Cancel changes
 
 
                           Entrega 1:
@@ -30,5 +30,8 @@
 1. Descripción del problema predictivo a resolver.
 
 Se busca predecir la constante de acoplamiento escalar, la cual describe cómo son los acoplamientos a través de los enlaces, mostrando así cómo se relaciona la interacción magnética entre dos átomos en una molécula. Por otro lado, esta competencia no solo buscará predecir los pares de átomos en cada molécula, sino que también predecir los pares que se encuentran en los archivos, es decir, si por ejemplo tenemos una molécula cuya composición hay flúor (F), pues este no predecirá la constante escalar para ningún par que contenga F.
+
+
+https://github.com/DyeSky/Tecnologias-para-el-desarrollo-de-APLICACIONES-WEB/issues/2#issue-1610042037
 
 Dicha interacción, permite maximizar aplicaciones como la Resonancia Magnética Nuclear (RMN), permitiendo obtener resultados más claros acerca de composición molecular de tejidos, estructura y organización de proteínas, permitiendo detectar anomalías en pacientes, para el caso de aplicaciones médicas y biomédicas.
