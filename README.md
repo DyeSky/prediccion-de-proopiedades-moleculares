@@ -24,7 +24,7 @@ Cc. 1004214604
 BIOINGENIERIA
 
 
-**NOTA**:
+**Datos**:
 Para cargar los datos a colab es necesario obtener un archivo kaggle.json, el cuál se descarga siguiendo los siguientes pasos:
 
 *   Loguearse a la cuenta de Kaggle o crear una cuenta en caso de que no se tenga.
