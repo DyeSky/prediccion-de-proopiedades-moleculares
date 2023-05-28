@@ -5,23 +5,11 @@
 
 ## Estudiantes:
 
-Linda Vanessa Ramos Pabon 
+Linda Vanessa Ramos Pabon, Cc. 1085341028, BIOINGENIERIA
 
-Cc. 1085341028
+Santiago Salazar Correa, Cc. 1000570053, BIOINGENIERIA
 
-BIOINGENIERIA
-
-Santiago Salazar Correa
-
-Cc. 1000570053
-
-BIOINGENIERIA
-
-Julian Andres Rosero Rosero
-
-Cc. 1004214604
-
-BIOINGENIERIA
+Julian Andres Rosero Rosero, Cc. 1004214604, BIOINGENIERIA
 
 
 ## Datos
